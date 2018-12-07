@@ -1,5 +1,5 @@
 # Dutch_Power_Plants
-Project on historical emissions of major Dutch combustion power plants
+Project on historical emissions of major Dutch combustion power plants using multi-index dataframes and CRISP-DM.
 
 pandas                    0.23.4
 numpy                     1.12.1
